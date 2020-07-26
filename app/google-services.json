@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "820978292617",
+    "firebase_url": "https://emo-detect.firebaseio.com",
+    "project_id": "emo-detect",
+    "storage_bucket": "emo-detect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820978292617:android:b8aab917019724e7f3b358",
+        "android_client_info": {
+          "package_name": "io.budge.emodetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820978292617-lp9bh2l4nutt6tcjj8vk7fbc77stt9n5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.budge.emodetect",
+            "certificate_hash": "4ba95e859b05d54b1df65fbf619f2d497125d3e2"
+          }
+        },
+        {
+          "client_id": "820978292617-ediopeolen8b5hum1mn1lp91j5o8l084.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy8grRkyu_gDKsgMBO1AbIegzMs4FQR0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820978292617-ediopeolen8b5hum1mn1lp91j5o8l084.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

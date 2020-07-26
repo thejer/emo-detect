@@ -1,0 +1,5 @@
+{
+  "modelFile": "graph.tflite",
+  "labelsFile": "labels.txt",
+  "modelType": "IMAGE_LABELING"
+}
